@@ -1,0 +1,156 @@
+[{
+    "id": 1,
+    "avatar": {
+      "src": "/img/1.ddb21a14.jpg",
+      "status": "success"
+    },
+    "user": {
+      "name": "Yiorgos Avraamu",
+      "new": true,
+      "registered": "Jan 1, 2021"
+    },
+    "country": {
+      "name": "USA",
+      "flag": "cif-us"
+    },
+    "usage": {
+      "value": 50,
+      "period": "Jun 11, 2021 - Jul 10, 2021",
+      "color": "success"
+    },
+    "payment": {
+      "name": "Mastercard",
+      "icon": "cib-cc-mastercard"
+    },
+    "activity": "10 sec ago"
+  },
+  {
+    "id": 2,
+    "avatar": {
+      "src": "/img/2.bebc7823.jpg",
+      "status": "danger"
+    },
+    "user": {
+      "name": "Avram Tarasios",
+      "new": false,
+      "registered": "Jan 1, 2021"
+    },
+    "country": {
+      "name": "Brazil",
+      "flag": "cif-br"
+    },
+    "usage": {
+      "value": 22,
+      "period": "Jun 11, 2021 - Jul 10, 2021",
+      "color": "info"
+    },
+    "payment": {
+      "name": "Visa",
+      "icon": "cib-cc-visa"
+    },
+    "activity": "5 minutes ago"
+  },
+  {
+    "id": 3,
+    "avatar": {
+      "src": "/img/3.41c875a2.jpg",
+      "status": "warning"
+    },
+    "user": {
+      "name": "Quintin Ed",
+      "new": true,
+      "registered": "Jan 1, 2021"
+    },
+    "country": {
+      "name": "India",
+      "flag": "cif-in"
+    },
+    "usage": {
+      "value": 74,
+      "period": "Jun 11, 2021 - Jul 10, 2021",
+      "color": "warning"
+    },
+    "payment": {
+      "name": "Stripe",
+      "icon": "cib-cc-stripe"
+    },
+    "activity": "1 hour ago"
+  },
+  {
+    "id": 4,
+    "avatar": {
+      "src": "/img/4.ae6e4ac5.jpg",
+      "status": "secondary"
+    },
+    "user": {
+      "name": "Enéas Kwadwo",
+      "new": true,
+      "registered": "Jan 1, 2021"
+    },
+    "country": {
+      "name": "France",
+      "flag": "cif-fr"
+    },
+    "usage": {
+      "value": 98,
+      "period": "Jun 11, 2021 - Jul 10, 2021",
+      "color": "danger"
+    },
+    "payment": {
+      "name": "PayPal",
+      "icon": "cib-cc-paypal"
+    },
+    "activity": "Last month"
+  },
+  {
+    "id": 4,
+    "avatar": {
+      "src": "/img/5.4d49615b.jpg",
+      "status": "success"
+    },
+    "user": {
+      "name": "Agapetus Tadeáš",
+      "new": false,
+      "registered": "Jan 1, 2021"
+    },
+    "country": {
+      "name": "Spain",
+      "flag": "cif-es"
+    },
+    "usage": {
+      "value": 22,
+      "period": "Jun 11, 2021 - Jul 10, 2021",
+      "color": "primary"
+    },
+    "payment": {
+      "name": "Google Wallet",
+      "icon": "cib-cc-apple-pay"
+    },
+    "activity": "Last week"
+  },
+  {
+    "avatar": {
+      "src": "/img/6.ca20af85.jpg",
+      "status": "danger"
+    },
+    "user": {
+      "name": "Friderik Dávid",
+      "new": true,
+      "registered": "Jan 1, 2021"
+    },
+    "country": {
+      "name": "Poland",
+      "flag": "cif-pl"
+    },
+    "usage": {
+      "value": 43,
+      "period": "Jun 11, 2021 - Jul 10, 2021",
+      "color": "success"
+    },
+    "payment": {
+      "name": "Amex",
+      "icon": "cib-cc-amex"
+    },
+    "activity": "Last week"
+  }
+]
